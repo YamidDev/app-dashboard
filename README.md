@@ -1,4 +1,4 @@
-# [Look-App Dashboard](https://github.com/YamidDev/look-app-admin)
+# [App Dashboard](https://github.com/YamidDev/app-admin)
 
 
  ## Versions
