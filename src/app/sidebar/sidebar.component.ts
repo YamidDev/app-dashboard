@@ -15,7 +15,7 @@ export const ROUTES_OPERATIVO: RouteInfo[] = [
 
 export const ROUTES_ADMIN: RouteInfo[] = [
   { path: '/dashboard', title: 'panel de control', icon: 'nc-layout-11', class: '' },
-  { path: '/user', title: 'Entidad Perfil', icon: 'nc-single-02', class: '' },
+  { path: '/user', title: 'Perfil', icon: 'nc-single-02', class: '' },
   { path: '/proveedores', title: 'Proveedores', icon: 'nc-box-2', class: ''},
   { path: '/unidad', title: 'Unidades Medida', icon: 'nc-chart-bar-32', class: ''},
   { path: '/productos', title: 'Productos', icon: 'nc-cart-simple', class: ''},
